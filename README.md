@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi,%20I'm%20Dylan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20%7C%20North%20Gray%20Technologies%20%7C%20Hallow%20Creek%20Studios&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi,%20I'm%20Dylan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=TheGrayUSA%20%7C%20North%20Gray%20Technologies%20%7C%20Hallow%20Creek%20Studios&descAlignY=55&descSize=16" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=IT+Technician+%40+Forsyth+Tech;Founder+%40+North+Gray+Technologies;Filmmaker+%40+Hallow+Creek+Studios;Building+as+TheGrayUSA.&font=Fira%20Code&center=true&width=600&height=45&color=2a5298&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=IT+Technician+%40+Forsyth+Tech;Founder+%40+North+Gray+Technologies;Filmmaker+%40+Hallow+Creek+Studios;Founder+Of+TheGrayUSA.&font=Fira%20Code&center=true&width=600&height=45&color=2a5298&vCenter=true&size=20" />
 </p>
 
 <p align="center">
